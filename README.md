@@ -3,14 +3,16 @@
 <!--
 **argaja10/argaja10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m a Biomedical Engineering graduate from Carnegie Mellon ​University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+My interests lie in the application of image processing and deep ​learning in pathology and clinical settings. Additionally, I have about ​2 years of  experience working in the biotech/healthcare industry.
+
+
+
+I am passionate about contributing to the biotech/healthcare ​industry and making a meaningful impact on human health.
+
+
+
+Feel free to reach out to collaborate, discuss ideas or just to chat!
